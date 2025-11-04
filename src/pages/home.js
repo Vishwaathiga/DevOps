@@ -12,7 +12,7 @@ function Home() {
           alt="Profile"
           className="profile-pic"
         />
-        <h1>Hello, I'm <span className="highlight">Vishwaathiga — DevOps Demo!</span></h1>
+        <h1>Hello, I'm <span className="highlight">Vishwaathiga</span></h1>
 
         <h2>Software Developer | Tech Enthusiast </h2>
         <p>
